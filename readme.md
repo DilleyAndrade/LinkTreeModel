@@ -3,7 +3,7 @@
     Esta aplicação é uma ferramenta valiosa para otimizar a presença online, especialmente para aqueles que utilizam plataformas como Instagram, onde a inserção de links diretos em postagens é limitada. Trata-se de uma página personalizável que concentra diversos links em um único lugar, simplificando a experiência do usuário ao fornecer acesso fácil e rápido a diferentes conteúdos.
 </h4>
 <hr/>
-<img src="/public/thumb.png">
+<img src="./images/thumb.jpg">
 
 <hr/>
 
