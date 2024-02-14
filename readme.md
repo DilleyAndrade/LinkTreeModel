@@ -8,7 +8,7 @@
 <hr/>
 
 <h4>Observe o Resultado:</h4>
-<p>Esta aplicação vai vai lhe ajudar a organizar seus contatos em um só lugar.</p>
+<p>Esta aplicação vai lhe ajudar a organizar seus contatos em um só lugar.</p>
 
 <h4>Licença:</h4>
 <p>Este projeto está licenciado sob a licença MIT - consulte o arquivo LICENSE.md para obter detalhes.</p>
